@@ -2,7 +2,7 @@
 
 <div align="center">
             
-| Category      | Number Of Images |
+| Category      | Amount |
 | ------------- | ------------ |
 | Abstract 2D   | 99           |
 | Abstract 3D   | 25           |
