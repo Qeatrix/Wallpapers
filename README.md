@@ -1,7 +1,8 @@
-<center>Wallpapers Collection</center>
+<h1><p align="center">Wallpapers Collection</p></h1>
 
-
-| Category      | Number Of Images |
+<div align="center">
+            
+| Category      | Amount |
 | ------------- | ------------ |
 | Abstract 2D   | 99           |
 | Abstract 3D   | 25           |
@@ -17,3 +18,4 @@
 | TheMiddleAges | 4            |
 | Other         | 4            |
 
+</div>
