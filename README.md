@@ -11,7 +11,6 @@
 | Blured | 11 |
 | Animals | 1 |
 | 2D Abstract | 107 |
-| Animations | 7 |
 | Other | 3 |
 | Nature | 41 |
 | Minimal | 4 |
