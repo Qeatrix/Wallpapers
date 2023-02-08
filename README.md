@@ -7,16 +7,19 @@
 | Cyber | 2 |
 | Games | 3 |
 | Cars | 8 |
-| City | 4 |
+| City | 7 |
 | Blured | 11 |
+| Dream | 2 |
 | Animals | 1 |
-| 2D Abstract | 107 |
+| Village | 2 |
+| Drawings Abstract | 4 |
+| 2D Abstract | 113 |
 | Other | 3 |
-| Nature | 41 |
+| Nature | 43 |
 | Minimal | 4 |
 | Space | 14 |
-| 3D Abstract | 30 |
-| Drawings | 50 |
+| 3D Abstract | 32 |
+| Drawings | 57 |
 | TheMiddleAges | 4 |
 
 </div>
