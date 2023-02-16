@@ -11,11 +11,11 @@
 | Blured | 11 |
 | Dream | 2 |
 | Animals | 1 |
-| Village | 2 |
-| Drawings Abstract | 4 |
+| Village | 3 |
+| Drawings Abstract | 3 |
 | 2D Abstract | 113 |
 | Other | 3 |
-| Nature | 43 |
+| Nature | 46 |
 | Minimal | 4 |
 | Space | 14 |
 | 3D Abstract | 32 |
