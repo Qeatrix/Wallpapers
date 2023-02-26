@@ -16,9 +16,9 @@
 | 2D Abstract | 113 |
 | Other | 3 |
 | Nature | 46 |
-| Minimal | 4 |
+| Minimal | 5 |
 | Space | 14 |
-| 3D Abstract | 32 |
+| 3D Abstract | 33 |
 | Drawings | 57 |
 | TheMiddleAges | 4 |
 
