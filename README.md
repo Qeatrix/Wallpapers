@@ -15,7 +15,7 @@
 | Drawings Abstract | 3 |
 | 2D Abstract | 113 |
 | Other | 3 |
-| Nature | 46 |
+| Nature | 48 |
 | Minimal | 5 |
 | Space | 14 |
 | 3D Abstract | 34 |
