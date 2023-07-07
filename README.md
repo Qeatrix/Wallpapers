@@ -1,5 +1,6 @@
 <h1><p align="center">Wallpapers Collection</p></h1>
 <div align="center">
+
 | Category      | Amount |
 | ------------- | ------------ |
 | 2D Abstract | 113 |
