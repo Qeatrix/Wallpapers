@@ -9,12 +9,17 @@ lines = 0
 
 import os
 
-rootdir = '.'
+rootdir = './Content'
+outputfile = 'README.md'
+
+print("Detected Categories")
+print("-------------------")
 for file in os.listdir(rootdir):
     d = os.path.join(rootdir, file)
     if os.path.isdir(d) and d != './.git':
         tmp_folders.append(d)
-        d = d[2:]
+        d = d[2:].split('/')[-1]
+        print(d)
         folders.append(str(f"| {d} | "))
 
 
@@ -32,7 +37,7 @@ for a in tmp_folders:
 result = map(sum, zip(str(folders),str(files)))
 result = [x+y for x, y in zip(folders, files)]
 
-readme = open('README.md', 'r+')
+readme = open(outputfile, 'r+')
 file_lines = readme.readlines()
 for line in file_lines:
     lines += 1
@@ -45,3 +50,5 @@ readme.writelines(file_lines[:6])
 for listitem in result:
     readme.write('%s\n' % listitem)
 readme.write('\n</div>')
+print("-------------------")
+print("\nWritten to", outputfile)
